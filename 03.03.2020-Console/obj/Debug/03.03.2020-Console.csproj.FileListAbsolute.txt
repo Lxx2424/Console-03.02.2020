@@ -1,0 +1,6 @@
+C:\Users\Lxx\source\repos\03.03.2020-Console\03.03.2020-Console\bin\Debug\03.03.2020-Console.exe.config
+C:\Users\Lxx\source\repos\03.03.2020-Console\03.03.2020-Console\bin\Debug\03.03.2020-Console.exe
+C:\Users\Lxx\source\repos\03.03.2020-Console\03.03.2020-Console\bin\Debug\03.03.2020-Console.pdb
+C:\Users\Lxx\source\repos\03.03.2020-Console\03.03.2020-Console\obj\Debug\03.03.2020-Console.csprojAssemblyReference.cache
+C:\Users\Lxx\source\repos\03.03.2020-Console\03.03.2020-Console\obj\Debug\03.03.2020-Console.exe
+C:\Users\Lxx\source\repos\03.03.2020-Console\03.03.2020-Console\obj\Debug\03.03.2020-Console.pdb
